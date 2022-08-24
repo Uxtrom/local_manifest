@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+ <project path="device/realme/bitra" name="Uxtrom/android_device_realme_bitra.git" remote="github" revision="rice-12.1" />
+ <project path="device/realme/sm8250-common" name="Uxtrom/android_device_realme_sm8250-common.git" remote="github" revision="rice-12.1" />
+ <project path="vendor/realme/bitra" name="Uxtrom/android_vendor_realme_bitra.git" remote="github" revision="rice-12.1" />
+ <project path="kernel/realme/bitra" name="Uxtrom/android_kernel_realme_bitra.git" remote="github" revision="rice-12.1" />
+ <project path="vendor/realme/sm8250-common" name="Uxtrom/android_vendor_realme_sm8250-common.git" remote="github" revision="rice-12.1" />
+ <project path="hardware/oplus" name="Uxtrom/android_hardware_oplus.git" remote="github" revision="rice-12.1" />
+</manifest>
